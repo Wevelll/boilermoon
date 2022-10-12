@@ -1,0 +1,9 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for hardhat projects",
+  "repository": "github.com/wevelll/boilermoon",
+  "author": "Daniil Rashin",
+  "license": "MIT",
+  "private": false
+}
